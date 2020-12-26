@@ -162,6 +162,10 @@ AUC:  0.8261085702923046
 weighted avg       0.84      0.82      0.83       154
 
 
+
+
+
+
                  
 7) Hyperparameter optimization : Randomized searchCV with 4 fold cross validation is used to find the optimum values of parameter for xgboost regression.
 
