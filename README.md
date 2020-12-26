@@ -50,6 +50,7 @@ Columns
  7) Build pipelines of classifiers : Pipelines of above mentioned classifiers are build to achieve the following results:
  
 Decision Tree
+
 Accuracy:  0.7662337662337663
 Balanced Accuracy:  0.7601908928216345
 Precision/Recall/F1 score:  (array([0.87368421, 0.59322034]), array([0.77570093, 0.74468085]), array([0.82178218, 0.66037736]), array([107,  47], dtype=int64))
@@ -68,6 +69,7 @@ weighted avg       0.79      0.77      0.77       154
 
 
 Random Forest
+
 Accuracy:  0.7987012987012987
 Balanced Accuracy:  0.711970570689998
 Precision/Recall/F1 score:  (array([0.80645161, 0.76666667]), array([0.93457944, 0.4893617 ]), array([0.86580087, 0.5974026 ]), array([107,  47], dtype=int64))
@@ -86,6 +88,7 @@ weighted avg       0.79      0.80      0.78       154
 
 
 Naive Bayes
+
 Accuracy:  0.7857142857142857
 Balanced Accuracy:  0.7384171803539471
 Precision/Recall/F1 score:  (array([0.83636364, 0.65909091]), array([0.85981308, 0.61702128]), array([0.84792627, 0.63736264]), array([107,  47], dtype=int64))
@@ -104,6 +107,7 @@ weighted avg       0.78      0.79      0.78       154
 
 
 Logistic Regression
+
 Accuracy:  0.8181818181818182
 Balanced Accuracy:  0.7558162656591767
 Precision/Recall/F1 score:  (array([0.83760684, 0.75675676]), array([0.91588785, 0.59574468]), array([0.875     , 0.66666667]), array([107,  47], dtype=int64))
@@ -122,6 +126,7 @@ weighted avg       0.81      0.82      0.81       154
 
 
 Support Vector Machine
+
 Accuracy:  0.7727272727272727
 Balanced Accuracy:  0.7052097832571087
 Precision/Recall/F1 score:  (array([0.81034483, 0.65789474]), array([0.87850467, 0.53191489]), array([0.84304933, 0.58823529]), array([107,  47], dtype=int64))
@@ -140,6 +145,7 @@ weighted avg       0.76      0.77      0.77       154
 
 
 XGboost
+
 Accuracy:  0.8246753246753247
 Balanced Accuracy:  0.8261085702923046
 Precision/Recall/F1 score:  (array([0.91666667, 0.67241379]), array([0.82242991, 0.82978723]), array([0.86699507, 0.74285714]), array([107,  47], dtype=int64))
