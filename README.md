@@ -1,6 +1,6 @@
 # Diabetes-prediction
 
-About DATA:
+### About DATA:
 
 This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
 
@@ -49,7 +49,7 @@ Columns
                                                                       
  7) Build pipelines of classifiers : Pipelines of above mentioned classifiers are build to achieve the following results:
  
-Decision Tree
+#### Decision Tree
 
 Accuracy:  0.7662337662337663
 Balanced Accuracy:  0.7601908928216345
@@ -68,7 +68,7 @@ weighted avg       0.79      0.77      0.77       154
 
 
 
-Random Forest
+#### Random Forest
 
 Accuracy:  0.7987012987012987
 Balanced Accuracy:  0.711970570689998
@@ -87,7 +87,7 @@ weighted avg       0.79      0.80      0.78       154
 
 
 
-Naive Bayes
+#### Naive Bayes
 
 Accuracy:  0.7857142857142857
 Balanced Accuracy:  0.7384171803539471
@@ -106,7 +106,7 @@ weighted avg       0.78      0.79      0.78       154
 
 
 
-Logistic Regression
+#### Logistic Regression
 
 Accuracy:  0.8181818181818182
 Balanced Accuracy:  0.7558162656591767
@@ -125,7 +125,7 @@ weighted avg       0.81      0.82      0.81       154
 
 
 
-Support Vector Machine
+#### Support Vector Machine
 
 Accuracy:  0.7727272727272727
 Balanced Accuracy:  0.7052097832571087
@@ -144,7 +144,7 @@ weighted avg       0.76      0.77      0.77       154
 
 
 
-XGboost
+#### XGboost
 
 Accuracy:  0.8246753246753247
 Balanced Accuracy:  0.8261085702923046
